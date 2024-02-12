@@ -21,8 +21,8 @@
   <build_depend>python-numpy</build_depend>
 
   <run_depend>i2c-tools</run_depend>
-  <run_depend>python-numpy</run_depend>
-  <run_depend>python-smbus</run_depend>
+  <run_depend>python3-numpy</run_depend>
+  <run_depend>python3-smbus</run_depend>
   <run_depend>message_runtime</run_depend>
   <run_depend>sensor_msgs</run_depend>
   <run_depend>tf</run_depend>
